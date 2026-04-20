@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"a1b2c3d4e5f60010","type":"group","x":-30,"y":20,"width":1160,"height":480,"color":"5","label":"Morning Check (5-10 min, mobile)"},
+		{"id":"a1b2c3d4e5f60040","type":"group","x":-30,"y":1920,"width":1160,"height":460,"color":"4","label":"Weekly Review (30 min, Sunday, desktop)"},
+		{"id":"a1b2c3d4e5f60030","type":"group","x":-30,"y":1320,"width":880,"height":480,"color":"2","label":"Evening Session (10-15 min, desktop)"},
+		{"id":"a1b2c3d4e5f60020","type":"group","x":-30,"y":640,"width":600,"height":480,"color":"3","label":"Midday Check (2-3 min, mobile)"},
+		{"id":"a1b2c3d4e5f60001","type":"text","text":"# Daily Crypto Routine\nStructured market awareness — observe, don't react","x":300,"y":-120,"width":500,"height":80,"color":"6"},
+		{"id":"a1b2c3d4e5f60011","type":"text","text":"## 1. CoinGecko\n**Market Snapshot**\n\n- ETH & BTC 24h change\n- Total Market Cap (7D chart)\n- >5% move = pay attention\n- Skip Top Gainers/Losers for now","x":0,"y":80,"width":250,"height":360,"color":"5"},
+		{"id":"a1b2c3d4e5f60012","type":"text","text":"## 2. TradingView\n**Daily Chart (1D)**\n\n- Check yesterday's candle\n- Price vs 20 EMA & 50 EMA\n- Above both = bullish\n- Below both = bearish\n- Between = undecided\n- One-sentence verdict","x":280,"y":80,"width":250,"height":360,"color":"5"},
+		{"id":"a1b2c3d4e5f60013","type":"text","text":"## 3. Fear & Greed\n**alternative.me**\n\n- 0-25: Extreme Fear (opportunity)\n- 25-45: Fear (be patient)\n- 45-55: Neutral\n- 55-75: Greed (be cautious)\n- 75-100: Extreme Greed (warning)\n\nJot down the number","x":560,"y":80,"width":250,"height":360,"color":"5"},
+		{"id":"a1b2c3d4e5f60014","type":"text","text":"## 4. Twitter/X\n**Optional, 2 min max**\n\n- @CryptoQuant_com\n- @DefiLlama\n- Scan headlines only\n- If a tweet makes you want to buy NOW — close the app","x":840,"y":80,"width":250,"height":360,"color":"5"},
+		{"id":"a1b2c3d4e5f60021","type":"text","text":"## 1. Big Moves Only\n**CoinGecko**\n\n- Did ETH or BTC move >5%?\n- **No** → close app, move on\n- **Yes up** → note it, don't chase\n- **Yes down** → note it, don't panic\n\nCatching fires, not finding trades","x":0,"y":700,"width":260,"height":360,"color":"3"},
+		{"id":"a1b2c3d4e5f60022","type":"text","text":"## 2. Stop-Loss Check\n**Only if holding positions**\n\n- Is price within 3-5% of stop?\n- If yes → set the order NOW\n- Never move stop-loss DOWN\n- Can move it UP (trailing stop)\n- No positions? Skip this","x":290,"y":700,"width":260,"height":360,"color":"3"},
+		{"id":"a1b2c3d4e5f60060","type":"text","text":"## DCA Strategy\n**€100/week into ETH**\n\n- ~25-30 weeks (~€2,500-3,000)\n- Kraken recurring buy\n- Buy every week, no matter what\n- Don't double up on dips\n- Don't skip \"high\" weeks\n- Withdraw to Ledger every 2-3 weeks\n- Review monthly, not weekly\n- Hold horizon: 2-3+ years\n\n**DCA buys more when cheap, less when expensive — automatically**","x":700,"y":640,"width":430,"height":480,"color":"6"},
+		{"id":"a1b2c3d4e5f60031","type":"text","text":"## 1. Indicator Deep Dive\n**TradingView Desktop**\n\n- **RSI**: >70 overbought, <30 oversold\n- **MACD**: crossovers = momentum shift\n- **Bollinger Bands**: squeeze = big move coming\n- **Volume**: confirms or denies the move\n- Check 1D and 4H timeframes","x":0,"y":1380,"width":260,"height":400,"color":"2"},
+		{"id":"a1b2c3d4e5f60032","type":"text","text":"## 2. Etherscan\n**Only if you transacted today**\n\n- Check tx status (Success?)\n- Verify gas fees reasonable\n- Confirm correct amounts\n- Gas tracker: etherscan.io/gastracker\n\nNo transactions? Skip this","x":290,"y":1380,"width":260,"height":400,"color":"2"},
+		{"id":"a1b2c3d4e5f60033","type":"text","text":"## 3. Trade Journal\n**Most important 2-3 minutes**\n\n- ETH price + F&G number\n- What indicators showed\n- Ideas / setups forming\n- **How you FEEL** (key!)\n- Action taken (often: none)\n\nPatterns emerge over weeks","x":580,"y":1380,"width":260,"height":400,"color":"2"},
+		{"id":"a1b2c3d4e5f60041","type":"text","text":"## 1. Portfolio Review\n**CoinGecko Portfolio**\n\n- Total value vs last Sunday\n- ETH/BTC ratio trend\n- Rebalancing check\n- Focus on % change, not $","x":0,"y":1980,"width":250,"height":380,"color":"4"},
+		{"id":"a1b2c3d4e5f60042","type":"text","text":"## 2. On-Chain Metrics\n**CryptoQuant + Etherscan**\n\n- **NVT Ratio**: P/E for crypto\n  High = overvalued, Low = undervalued\n- **Exchange Flows**: inflows = bearish, outflows = bullish\n- **Active Addresses**: growing = healthy","x":280,"y":1980,"width":250,"height":380,"color":"4"},
+		{"id":"a1b2c3d4e5f60043","type":"text","text":"## 3. Re-evaluate\n**Positions & Stop-Losses**\n\n- Stop-loss still valid?\n- Take partial profit (>20% up)?\n- Within risk rules?\n- Max 1-2% portfolio risk per trade\n- Never move stop-loss DOWN","x":560,"y":1980,"width":250,"height":380,"color":"4"},
+		{"id":"a1b2c3d4e5f60044","type":"text","text":"## 4. Learn One Thing\n**Pick ONE, not all:**\n\n- Re-read a relevant chapter\n- Watch one Ben Cowen video\n- Look up one new term\n\nLessons hit different when you're seeing concepts live","x":840,"y":1980,"width":250,"height":380,"color":"4"},
+		{"id":"a1b2c3d4e5f60050","type":"text","text":"## What NOT to Do\n\n- Don't check prices every hour\n- Don't trade based on morning checks\n- Don't follow >15 accounts on Twitter\n- Don't skip the journal\n- Don't trade when emotional\n- Don't use indicators in isolation\n\n**If excited/scared/bored → close app, open journal**","x":300,"y":2500,"width":500,"height":200,"color":"1"}
+	],
+	"edges":[
+		{"id":"e1b2c3d4e5f60001","fromNode":"a1b2c3d4e5f60011","fromSide":"right","toNode":"a1b2c3d4e5f60012","toSide":"left"},
+		{"id":"e1b2c3d4e5f60002","fromNode":"a1b2c3d4e5f60012","fromSide":"right","toNode":"a1b2c3d4e5f60013","toSide":"left"},
+		{"id":"e1b2c3d4e5f60003","fromNode":"a1b2c3d4e5f60013","fromSide":"right","toNode":"a1b2c3d4e5f60014","toSide":"left"},
+		{"id":"e1b2c3d4e5f60004","fromNode":"a1b2c3d4e5f60021","fromSide":"right","toNode":"a1b2c3d4e5f60022","toSide":"left"},
+		{"id":"e1b2c3d4e5f60005","fromNode":"a1b2c3d4e5f60031","fromSide":"right","toNode":"a1b2c3d4e5f60032","toSide":"left"},
+		{"id":"e1b2c3d4e5f60006","fromNode":"a1b2c3d4e5f60032","fromSide":"right","toNode":"a1b2c3d4e5f60033","toSide":"left"},
+		{"id":"e1b2c3d4e5f60007","fromNode":"a1b2c3d4e5f60041","fromSide":"right","toNode":"a1b2c3d4e5f60042","toSide":"left"},
+		{"id":"e1b2c3d4e5f60008","fromNode":"a1b2c3d4e5f60042","fromSide":"right","toNode":"a1b2c3d4e5f60043","toSide":"left"},
+		{"id":"e1b2c3d4e5f60009","fromNode":"a1b2c3d4e5f60043","fromSide":"right","toNode":"a1b2c3d4e5f60044","toSide":"left"},
+		{"id":"e1b2c3d4e5f60010","fromNode":"a1b2c3d4e5f60010","fromSide":"bottom","toNode":"a1b2c3d4e5f60020","toSide":"top","label":"then"},
+		{"id":"e1b2c3d4e5f60011","fromNode":"a1b2c3d4e5f60020","fromSide":"bottom","toNode":"a1b2c3d4e5f60030","toSide":"top","label":"then"},
+		{"id":"e1b2c3d4e5f60012","fromNode":"a1b2c3d4e5f60030","fromSide":"bottom","toNode":"a1b2c3d4e5f60040","toSide":"top","label":"weekly"},
+		{"id":"e1b2c3d4e5f60013","fromNode":"a1b2c3d4e5f60040","fromSide":"bottom","toNode":"a1b2c3d4e5f60050","toSide":"top","color":"1"},
+		{"id":"e1b2c3d4e5f60014","fromNode":"a1b2c3d4e5f60001","fromSide":"bottom","toNode":"a1b2c3d4e5f60010","toSide":"top"}
+	]
+}

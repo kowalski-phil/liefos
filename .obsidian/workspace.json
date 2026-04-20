@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "434f32c53c5741e9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d803c2112bf1ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49c46962b4f5ad00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/2026-03-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-20"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d87a2715d2a2683",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d17ddf403fad3a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab79c8fe86621d97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fe8cbc306ff64b46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "fb9f9bb0a97e922c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab03f925d3d7efc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "57e4b3bc51593919",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5e067ba0995c4bb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "daily-crypto-routine.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf daily-crypto-routine"
+            }
+          },
+          {
+            "id": "63adfe6f26a58d9c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "daily-crypto-routine.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von daily-crypto-routine öffnen"
+            }
+          },
+          {
+            "id": "16c1b0115f685c56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2913716a2c5f1e8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Alle Eigenschaften"
+            }
+          },
+          {
+            "id": "d683958d752f1e8d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "daily-crypto-routine.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von daily-crypto-routine"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "49c46962b4f5ad00",
+  "lastOpenFiles": [
+    "daily/2026-03-19.md",
+    "daily/2026-03-20.md",
+    "inbox/2026-03-19 How I teach Claude Code (Early AI Adopters).md",
+    "archive/2026-03-19 How I teach Claude Code (Early AI Adopters).md",
+    "ideas/2026-03-19-custom-client-newsletter.md",
+    "ideas/2026-03-19-ai-curriculum-designer-skill.md",
+    "research/2026-03-19-teaching-as-business-model-mark.md",
+    "Pasted image 20260320002302.png",
+    "Pasted image 20260320002448.png",
+    "Pasted image 20260320002557.png",
+    "Pasted image 20260320003220.png",
+    "Pasted image 20260320003039.png",
+    "Pasted image 20260320002944.png",
+    "Pasted image 20260320002846.png",
+    "Pasted image 20260320002534.png",
+    "Pasted image 20260320002511.png",
+    "Pasted image 20260320002351.png",
+    "daily/2026-03-18.md",
+    "daily-crypto-routine.canvas",
+    "ideas/viva-engage/2026-03-18-cheapest-co-worker.md",
+    "daily/2026-03-18-tldr.md",
+    "daily/2026-03-17.md",
+    "projects/2026-03-18-obsidian-vault-setup.md",
+    "outputs/file_summaries/2026-03-18/2._Elternbrief_Abschlussfahrt_Wien__9MBE_summary.md",
+    "outputs/file_summaries/2026-03-18/MASTER_SUMMARY.md",
+    "outputs/file_summaries/2026-03-18",
+    "outputs/file_summaries",
+    "outputs",
+    "archive/2. Elternbrief Abschlussfahrt Wien  9MBE.pdf",
+    "requirements.txt",
+    "scripts/process_files_with_gemini.py",
+    "scripts/process_docs_to_obsidian.py",
+    "daily/2026-03-16.md",
+    "daily/2026-03-15.md",
+    "daily/2026-03-14.md",
+    "daily/2026-03-13.md",
+    "daily/2026-03-12.md",
+    "daily/2026-03-11.md",
+    "daily/2026-03-10.md",
+    "daily/2026-03-09.md",
+    "daily/2026-03-08.md",
+    "daily/2026-03-07.md",
+    "daily/2026-03-06.md",
+    "daily/2026-03-05.md",
+    "CLAUDE.md.backup-2026-03-17-234007"
+  ]
+}

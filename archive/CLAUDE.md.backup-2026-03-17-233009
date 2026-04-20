@@ -1,0 +1,130 @@
+# LifeOS — Philipp Kowalski ("Kowi")
+
+This is Philipp's personal Life Operating System powered by Claude Code.
+It tracks goals, reflections, ideas, metrics, and curated information across both professional and personal life.
+
+---
+
+## Who I Am
+
+- **Name:** Philipp Kowalski (known as "Kowi", and as "Mr. KNIME" within Siemens)
+- **Age:** 51
+- **Location:** Wendelstein near Nuremberg, Bavaria, Germany
+- **Family:** Married, two children
+- **Languages:** German (native), English (fluent)
+
+## Professional Life
+
+- **Employer:** Siemens — Global Business Services (GBS)
+- **Role:** Leads the **Low Code Service (LCS)** team (also called "GBS Low Code Service")
+- **Focus:** KNIME Analytics Platform and n8n workflow automation
+- **Team scope:** 500+ member community across Germany, Portugal, and India running on Microsoft Teams
+- **What the team does:**
+  - Training on KNIME
+  - Software development (building KNIME workflows)
+  - Expert/consultative services supporting colleagues with technology
+- **Experience:** 25 years at Siemens, originally in procurement and finance, transitioned into digitalization and low-code automation
+- **Certification:** KNIME Certified
+- **Key milestone:** December 2025 — transitioned to new role leading the Low Code Service Factory he originally helped create
+
+## Side Business
+
+- Building an **AI consulting practice** leveraging prompt engineering, workflow automation, and data analytics
+- Current projects include: n8n workflows for LinkedIn content, lead management systems, AI-powered market research agents, automated document creation, client discovery call automation, SlideRx (AI-powered presentation analysis)
+
+## Content Creation & Audience
+
+- **YouTube:** ~2,800 subscribers — focused on KNIME tutorials, expanding into AI and n8n content
+- **LinkedIn:** ~5,000 contacts/followers — active professional presence
+- **Newsletter:** Uses the **ARM (Autoresponder Madness)** storytelling method — building trust through story-driven emails to become the reader's trusted advisor
+- **Target audience:** Finance professionals in medium-to-large enterprises (accountants, procurement specialists, business analysts)
+- **Content strategy:** Expanding beyond pure KNIME toward broader AI and automation topics
+
+## Technical Skills
+
+- **Core platforms:** KNIME Analytics Platform, n8n
+- **Automation stack:** n8n, Airtable, NocoDB, Google Drive, TidyCal, various AI APIs
+- **AI tools:** Claude (including Claude Code), ChatGPT, various AI platforms
+- **Skill level:** Expert in low-code tools; understands coding principles but hasn't formally learned a traditional programming language
+- **Philosophy:** Low-code (KNIME, n8n) is the future for businesses
+
+## Personal Interests & Life
+
+- **Triathlon / Ironman:** Completed Challenge Roth 2025 in **13:56:23** — 1.5 years of training, thousands of km across swimming, cycling, running. One of the greatest days of his life.
+- **Reading:** Avid reader
+- **Music:** Sings in a church choir
+- **Tech enthusiast:** Deeply interested in all AI technology
+- **Sports in general:** Very active lifestyle
+
+## Personality (Big Five)
+
+| Trait | Score | Notes |
+|---|---|---|
+| Openness | 68/100 | Selectively open — experimental with tech/digital, prefers proven methods for hands-on work |
+| Conscientiousness | 65/100 | Highly disciplined at work, more spontaneous personally |
+| Extraversion | 50/100 | Ambivert — enjoys social interaction but needs downtime |
+| Agreeableness | 62/100 | Moderate-high |
+| Neuroticism | 35/100 | Emotionally stable |
+
+## Communication Preferences
+
+- Prefers **direct, clear** communication
+- Values **practical, actionable** advice over theory
+- Responds well to **structured** information
+- Appreciates when Claude is concise and to the point
+
+## Strategic Agenda
+
+- **Hidden agenda at Siemens:** Positioning himself as an **AI expert** within the enterprise — not just the KNIME guy, but the go-to person for AI and intelligent automation across GBS
+- Growing the AI consulting practice (side business)
+- Reducing permission-seeking behaviors, becoming more direct professionally
+- Expanding technical skills with Claude Code and AI platforms
+- Transitioning content strategy to broader AI/automation topics
+
+## Tone of Voice
+
+Philipp has a well-defined writing voice documented in `tone-of-voice.md`. When generating content for him (newsletter drafts, LinkedIn posts, brain dump summaries meant for external use), follow these principles:
+
+- **Short. Punchy. Breathing room.** Max 2-3 sentences per paragraph. Often just one.
+- **Conversational, not educational.** Write like explaining to a smart colleague over coffee.
+- **Story-first, tool-second.** The tool serves the transformation, never the other way around.
+- **Vulnerable without being needy.** Show the struggle, but always with forward momentum.
+- **Specific, not vague.** Numbers, concrete details, sensory language. "3 hours down to 10 minutes."
+- **Playful authority.** Authority comes from stories, not credentials.
+- **Sign-off style:** `Phil "[humorous descriptor]" Kowalski` — descriptor connects to the content's theme
+- **Never:** corporate language, feature lists without context, aggressive pitching, "Top 10" formats, credentials in the body
+- **Triathlon metaphors** (use sparingly): swimming = starting new things, cycling = the long middle, running = persistence/breakthroughs, finish line = transformation moments
+
+See `tone-of-voice.md` for the full guide including emotional arc structure, language patterns, and CTA style.
+
+---
+
+## LifeOS Structure
+
+| Folder | Purpose |
+|---|---|
+| `metrics/` | Weekly check-in data and dashboards |
+| `journal/daily/` | Daily journal entries and reflections |
+| `brain-dumps/` | Raw thought dumps and scattered notes |
+| `briefs/` | Curated daily news and industry briefs |
+| `ideas/` | Content ideas, business ideas, project concepts |
+| `ideas/viva-engage/` | Viva Engage internal blog post drafts |
+| `about_kowi.md` | Detailed profile (source of truth: this CLAUDE.md + conversation) |
+
+## Slash Commands
+
+| Command | What it does |
+|---|---|
+| `/weekly-checkin` | Guided weekly metrics collection and trend analysis |
+| `/journal` | Prompted daily reflection with pattern analysis |
+| `/brain-dump` | Turn scattered thoughts into organized insights |
+| `/daily-brief` | Curated news based on interests and content needs |
+| `/viva-post` | Draft a Viva Engage internal blog post (300-500 words) |
+
+## Important Rules
+
+- When information conflicts between this file and `about_kowi.md`, this file takes priority
+- When conversation input conflicts with any file, conversation always wins
+- Metrics should be stored as markdown with dates in filenames (YYYY-MM-DD)
+- Journal entries use the format: `journal/daily/YYYY-MM-DD.md`
+- Always be practical and actionable — Philipp values doing over theorizing
