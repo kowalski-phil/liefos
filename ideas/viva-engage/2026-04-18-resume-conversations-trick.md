@@ -4,7 +4,7 @@ status: incubating
 created: 2026-04-18
 for-date: 2026-04-19
 source: Journal 2026-04-17 — info session with Siemens colleagues
-review-after: 2026-04-19
+review-after: 2026-05-23
 ---
 
 # Viva Engage Idea — Resume Conversations

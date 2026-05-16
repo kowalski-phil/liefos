@@ -3,7 +3,7 @@ title: "OSINT for Stakeholder Profiling — Claude Code Agent"
 type: idea
 status: active
 created: 2026-03-27
-review-after: 2026-04-04
+review-after: 2026-05-23
 tags: [osint, stakeholder-profiling, ai-consulting, knime, strategy, claude-code]
 source: journal
 ---

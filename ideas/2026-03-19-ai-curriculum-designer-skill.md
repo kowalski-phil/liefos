@@ -1,9 +1,9 @@
 ---
 title: "AI Curriculum Designer — Claude Code Skill"
 type: idea
-status: incubating
+status: backlog
 created: 2026-03-19
-review-after: 2026-05-02
+review-after: 2026-05-23
 tags: [claude-code, skill, teaching, ai-consulting]
 source: inbox
 ---

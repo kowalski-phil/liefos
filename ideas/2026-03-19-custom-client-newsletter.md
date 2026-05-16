@@ -3,7 +3,7 @@ title: "Custom Weekly Newsletter for Clients"
 type: idea
 status: backlog
 created: 2026-03-19
-review-after: 2026-05-12
+review-after: 2026-05-17
 tags: [ai-consulting, newsletter, client-retention, recurring-revenue]
 source: inbox
 ---

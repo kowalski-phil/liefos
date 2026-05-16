@@ -1,0 +1,151 @@
+Top #1 Post text:
+2025: I crossed two finish lines I'll never forget.
+One took 14 hours. The other took 8 years.
+
+In July, I finished my first long-distance triathlon at Challenge Roth — in my hometown. 
+3.8 km swim. 
+180 km bike. 
+42 km run. 
+
+A dream I'd been chasing for years.
+
+In autumn, I returned to Siemens AG after 8 years at Siemens Industry Software. Back where my journey started 23 years ago.
+
+Both required endurance. 
+Both had moments where I questioned everything. 
+Both were only possible because of an incredible support crew.
+
+For Roth: a family that tolerated 5am swim sessions and weekend long runs.
+
+For my career move: Ruwen Zaparty and Oliver Wolf — two leaders who didn't just approve a transfer, but actively made it happen. That's not standard. That's exceptional.
+
+And of course Tobias Hornig - simply for being you.
+
+And here's what still blows my mind about hashtag#TeamSiemens :
+I traded salary for extra vacation days to train. Nobody blinked. 
+I blast music while building low-code solutions. Nobody cares. 
+I get access to tools like SiemensGPT, Altair AI Studio, KNIME, and n8n to push what's possible. Every single day.
+
+From Industrial AI (you might have heard Roland Busch mention it once or twice 😉) to everyday AI in every function — this company doesn't just talk transformation. It lives it.
+
+If you'd told a younger me — the one in much darker places — that this is where life would lead... I wouldn't have believed you.
+
+But here I am.
+
+Siemens didn't just give me a job 23 years ago... 
+
+It gave me a place to rebuild.
+
+
+23 years. 1 company. 2 finish lines.
+
+And honestly? Can't wait for 2026.
+#ChallengeRoth hashtag#Triathlon hashtag#AI hashtag#LowCode hashtag#Gratitude
+
+Top #2  Post text:
+Everyone's so happy about new GPT5. Honestly, it's a piece of sh*t!
+
+It is slower (not faster) and its enhanced token number does not make it better, it seems to make it worse.
+
+I have used chatGPT now for over a year (and was super satisfied with gpt4o). In 5 it now shows things like "thinking for 6 sec" but the truth is: it takes up to a minute until a response appears.
+
+And the oh so wonderful 128k token window - BS! It does not even remember what we discussed two prompts back. 
+
+This is extremely disappointing - I am not sure what strange use cases (probably not out of real life) some people run when they claim it is "so wonderful and fast". For me it has been a nightmare ever since it was introduced ... no ... forced onto paying customers. A clear lesson in how not to deal with customers.
+
+Top #3  Post text:
+I've been "Mr. KNIME" for 7 years.
+
+I think that era is ending.
+
+Not because KNIME is dead. It's thriving. 
+
+I built a community of 500+ users around it. 
+Became the go-to guy.
+Trained hundreds. 
+
+But here's what I'm noticing:
+KNIME was my gateway drug.
+
+Read.that.again.
+
+It taught me that you don't need to be a developer to build powerful solutions. That the barrier between "idea" and "working product" can be laughably small.
+
+Low-Code was the warm-up.
+
+Now the real show is starting: 
+→ Tools that build tools
+→ n8n for workflow automation 
+→ OpenClaw for autonomous AI agents 
+→ AI assistants that write their own code 
+
+Last night I deployed an AI image generator without touching code. 
+
+My assistant Aria did the heavy lifting. I just described what I wanted.
+
+This isn't "Mr. KNIME" territory anymore.
+
+This is something new. Something bigger.
+
+I spent 8 years becoming the Low-Code guy.
+
+Now I'm becoming the "just describe what you want and watch it happen" guy.
+
+Not sure what to call that yet. But I know one thing:
+The people who understood Low-Code early had a massive advantage.
+
+The people who understand AI agents now?
+Same energy. Bigger wave.
+
+Are you riding it or watching it?
+
+Top #4  Post text:
+Stepped out of the room. Grabbed a coffee.
+
+Before that: "Claude, build me a regex learning plan."
+
+I come back.
+
+A full app. On my screen.
+
+14 days. 15 min a day. 
+With interactive challenges. 
+Including a live playground. 
+And of course progress tracking.
+
+Then I say: "Make it KNIME-specific. Java regex."
+
+Two minutes later:
+
+✅ Possessive quantifiers
+✅ Unicode properties for special characters
+✅ Inline flags (?i), (?m), (?s)
+✅ KNIME tips baked into every lesson
+✅ regexMatcher() and regexReplace() built right in
+
+No generic AI output.
+A real learning app.
+For MY tech stack.
+
+We keep talking about AI replacing jobs.
+
+But what if AI becomes the best teacher you ever had?
+
+Tailored to your tools. 
+Your level. 
+Your 15 minutes a day.
+
+This isn't some future scenario.
+This is Saturday noon on my couch.
+
+👉 More AI + Finance content? Follow me or check out my newsletter "Bytes & Budgets".
+
+Top #5  Post text (main content is an AI video of me having breakfast with a panda):
+Love pandas? Why not have breakfast with them?
+.
+.
+I simply uploaded my business portrait image (the one I use also here on LinkedIn) into an image-to-video AI model and BOOM 💥 there you have it. 
+
+Crazy times we live in. 
+
+Want the prompt and how I approached it? Simply connect and I send it to you via DM.
